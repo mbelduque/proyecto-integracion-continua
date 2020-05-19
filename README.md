@@ -15,12 +15,12 @@ Proyecto:
 
 Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
 
-#Características
+# Características
 
 <ul>
-<li>Registro y autenticación de usuarios
-<li>Filtrado de artículos básico y avanzado
-<li>Catálogo de artículos y características
-<li>Modificación de las cantidades en tiempo real
-<li>Calcular automáticamente el total incluido el envío (si se elige)
+<li>Registro y autenticación de usuarios</li>
+<li>Filtrado de artículos básico y avanzado</li>
+<li>Catálogo de artículos y características</li>
+<li>Modificación de las cantidades en tiempo real</li>
+<li>Carro de compras (cantidad de artículos y calculo del total)</li>
 </ul>
