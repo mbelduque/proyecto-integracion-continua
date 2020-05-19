@@ -1,7 +1,4 @@
-# proyecto-integracion-continua
-Aplicación web Ecommerce de productos orgánicos.
-
-<h2>Politécnico Grancolombiano</h2>
+# Politécnico Grancolombiano
 
 Módulo: 
 <ul>
