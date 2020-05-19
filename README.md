@@ -33,12 +33,10 @@ Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redu
 
 ### Instalación del paquete
 Ejecute el siguiente comando:
-```bash
-npm install
-```
+### `npm install`
+
  ### Inicie la aplicación React
  Ejecute el siguiente comando: 
-```bash
-npm start
-```
+### `npm start`
+
 La aplicación se iniciará automáticamente en su navegador en http://localhost:3000
