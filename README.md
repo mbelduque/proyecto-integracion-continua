@@ -1,8 +1,5 @@
 # Politécnico Grancolombiano
 
-
-## Información
-
 Módulo: 
 <ul>
 <li>Integración continua</li>
@@ -16,7 +13,6 @@ Integrantes:
 
 Proyecto:
 Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
-
 
 ## Características
 
