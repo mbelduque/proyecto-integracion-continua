@@ -1,5 +1,9 @@
 # Politécnico Grancolombiano
 
+Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
+
+## Información
+
 Módulo: 
 <ul>
 <li>Integración continua</li>
@@ -11,11 +15,7 @@ Integrantes:
 <li>Juan Sebastian Ibarra</li>
 </ul>
 
-Proyecto: 
-
-Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
-
-# Características
+## Características
 
 <ul>
 <li>Registro y autenticación de usuarios</li>
