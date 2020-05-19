@@ -12,6 +12,7 @@ Integrantes:
 </ul>
 
 Proyecto:
+
 Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
 
 ## Características
@@ -23,3 +24,20 @@ Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redu
 <li>Modificación de las cantidades en tiempo real</li>
 <li>Carro de compras (cantidad de artículos y calculo del total)</li>
 </ul>
+
+# Empezando
+## Requisitos
+
+* Node.js
+* NPM
+
+### Package installation
+```bash
+npm install
+```
+ ### Start the React App
+ Excute the following command: 
+```bash
+npm start
+```
+The application will start automatically in your browser on http://localhost:3000
