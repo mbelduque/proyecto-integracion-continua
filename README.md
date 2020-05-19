@@ -12,6 +12,5 @@ Integrantes:
 </ul>
 
 Proyecto: 
-<ul>
-<li>Aplicación web Ecommerce para la comercialización de productos orgánicos</li>
-</ul>
+
+Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
