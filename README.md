@@ -32,12 +32,11 @@ Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redu
 * NPM
 
 ### Instalación del paquete
-Ejecute el siguiente comando:
+Ejecute en el terminal de Windows el siguiente comando:
 ### `npm install`
 
- ### Inicie la aplicación React
- Ejecute el siguiente comando: 
+### Inicie la aplicación React
+Ejecute en el directorio del proyecto el siguiente comando: 
 ### `npm start`
-
 
 La aplicación se iniciará automáticamente en su navegador en http://localhost:3000
