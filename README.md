@@ -8,7 +8,6 @@ Módulo:
 Integrantes: 
 <ul>
 <li>Mauricio Belduque</li>
-<li>Juan Sebastian Ibarra</li>
 </ul>
 
 Proyecto:
