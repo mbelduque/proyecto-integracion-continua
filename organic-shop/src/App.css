@@ -29,3 +29,15 @@ body {
 data-provider-id {
   color: #00893a;
 }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  font-family: "Roboto Slab", serif;
+  font-size: 4em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
