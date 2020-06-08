@@ -14,6 +14,8 @@ class App extends Component {
   state = { isSignedIn: false }
   uiConfig = {
     signInFlow: "popup",
+    // Redirect to /signedIn after sign in is successful. Alternatively you can provide a callbacks.signInSuccess function.
+    signInSuccessUrl: '#/',
     signInOptions: [
       firebase.auth.EmailAuthProvider.PROVIDER_ID,
       firebase.auth.GoogleAuthProvider.PROVIDER_ID,
@@ -42,7 +44,7 @@ class App extends Component {
             this.state.isSignedIn ? (
               <span>
                 <h1>Bienvenido {firebase.auth().currentUser.displayName}</h1>
-                <img alt='profile picture' src={firebase.auth().currentUser.photoURL} />
+                <img alt='profile' src={firebase.auth().currentUser.photoURL} />
                 <button onClick={() => firebase.auth().signOut()}>Salir</button>
               </span>
             ) : (
