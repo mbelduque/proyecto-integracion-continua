@@ -8,7 +8,7 @@
 
 <p align="center">
   <h1 align="center">
-    <img src="https://github.com/mbelduque/Healingtouch/blob/master/src/com/healingtouch/resources/images/healingtouch.png">
+    <img src="https://ibb.co/hZX4LW6">
 </h1>
 </p>
 
