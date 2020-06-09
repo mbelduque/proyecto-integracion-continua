@@ -4,6 +4,14 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mbelduque/proyecto-integracion-continua.svg?style=social">
 </a>
 
+<br>
+
+<p align="center">
+  <h1 align="center">
+    <img src="https://github.com/mbelduque/Healingtouch/blob/master/src/com/healingtouch/resources/images/healingtouch.png">
+</h1>
+</p>
+
 Módulo: 
 <ul>
 <li>Integración continua</li>
