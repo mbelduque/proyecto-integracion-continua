@@ -8,7 +8,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/mHV4hXG/poli.png" alt="poli" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/NrsW75n/organica.png" alt="organica" border="0"></a>
 </h1>
 </p>
 
