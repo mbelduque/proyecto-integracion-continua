@@ -1,6 +1,5 @@
 # Politécnico Grancolombiano
 
-<br>
 <a href="https://github.com/mbelduque/Healingtouch/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/mbelduque/healingtouch.svg"></a>
 <a href="https://github.com/mbelduque/proyecto-integracion-continua/stargazers">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mbelduque/proyecto-integracion-continua.svg?style=social">
@@ -12,7 +11,7 @@
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/NrsW75n/organica.png" alt="organica" border="0"></a>
 </h1>
 </p>
-
+<br>
 Módulo: 
 <ul>
 <li>Integración continua</li>
