@@ -8,7 +8,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/w09zXXY/favicon.png" alt="favicon" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/mHV4hXG/poli.png" alt="poli" border="0"></a>
 </h1>
 </p>
 
