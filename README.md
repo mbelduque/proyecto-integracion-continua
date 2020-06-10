@@ -1,5 +1,6 @@
 # Politécnico Grancolombiano
 
+[![Build Status][build-shield]][build-url]
 <a href="https://github.com/mbelduque/Healingtouch/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/mbelduque/healingtouch.svg"></a>
 <a href="https://github.com/mbelduque/proyecto-integracion-continua/stargazers">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mbelduque/proyecto-integracion-continua.svg?style=social">
