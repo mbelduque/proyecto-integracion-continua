@@ -8,7 +8,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/YyD1PkC/org-nica-logo.png" alt="org-nica-logo" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/w09zXXY/favicon.png" alt="favicon" border="0"></a>
 </h1>
 </p>
 
