@@ -3,6 +3,7 @@
 <a href="https://github.com/mbelduque/proyecto-integracion-continua/stargazers">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mbelduque/proyecto-integracion-continua.svg?style=social">
 </a>
+# #
 # Politécnico Grancolombiano
 </h1>
 </p>
