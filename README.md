@@ -6,13 +6,6 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mbelduque/proyecto-integracion-continua.svg?style=social">
 </a>
 <br>
-
-<p align="center">
-  <h1 align="center">
-    <a href="https://ibb.co/tqS8S94">
-      <img src="https://i.ibb.co/tqS8S94/Whats-App-Image-2020-06-11-at-11-11-57-PM.jpg" alt="Whats-App-Image-2020-06-11-at-11-11-57-PM" border="0">
-    </a>
-<br />
 </h1>
 </p>
 <br>
