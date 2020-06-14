@@ -20,7 +20,7 @@ Integrantes:
 
 Proyecto:
 
-Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
+Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas. Se desarrolla bajo el enfoque de la Integración Continua usando diferentes herramientas, tales como, <a href = "https://hub.docker.com/r/jenkins/jenkins">Jenkins v2.240 </a> como servidor CI para la automatización de tareas y <a href = "https://www.docker.com/">Docker Engine v19.03.8 </a> como motor de contenedorización para la compilación y despliegue del producto.
 
 ## Características
 
