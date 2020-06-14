@@ -25,11 +25,11 @@ Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redu
 ## Características
 
 <ul>
-<li>Registro y autenticación de usuarios</li>
-<li>Filtrado de artículos básico y avanzado</li>
-<li>Catálogo de artículos y características</li>
-<li>Modificación de las cantidades en tiempo real</li>
-<li>Carro de compras (cantidad de artículos y calculo del total)</li>
+  <li>Registro y autenticación de usuarios</li>
+  <li>Catálogo de artículos y características</li>
+  <li>Filtrado de artículos básico y avanzado</li>
+  <li>Modificación de las cantidades en tiempo real</li>
+  <li>Carro de compras (cantidad de artículos y calculo del total)</li>
 </ul>
 
 # Empezando
