@@ -1,8 +1,13 @@
 pipeline {
-    agent any
-
-    tools {nodejs "node"}
-
+    agent {
+        docker {
+            image 'node:12.10.0-alpine'
+            args '-p 80:80'
+        }
+    }
+    environment {
+        CI = 'true'
+    }
     stages {
         stage('Git') {
             steps {
@@ -12,7 +17,6 @@ pipeline {
         stage('Build') {
             steps {
                 sh 'npm install'
-                sh '<<Build Command>>'
             }
         }
         stage('Test') {
