@@ -1,19 +1,27 @@
 pipeline {
-    agent any
+    agent {
+        docker {
+            image 'node:12.10.0-alpine'
+            args '-p 80:80'
+        }
+    }
     environment {
         CI = 'true'
     }
     stages {
-        stage('Cloning Git') {
+        stage('Git') {
             steps {
                 git 'https://github.com/mbelduque/proyecto-integracion-continua.git'
             }
         }
-        stage('Building image') {
-            steps{
-                script {
-                    docker build -t template-shop:1.0 .
-                }
+        stage('Build') {
+            steps {
+                sh 'npm install'
+            }
+        }
+        stage('Test') {
+            steps {
+                sh 'node test'
             }
         }
     }
