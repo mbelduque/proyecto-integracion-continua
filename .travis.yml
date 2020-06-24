@@ -12,3 +12,11 @@ install:
 script:
   - yarn test
   - yarn build
+  # build docker images
+  - docker build -t template-shop:1.0 .
+deploy:
+  provider: script
+  script:
+    # push to dockerhub
+    docker push belduque/template-shop;
+  branch: master
