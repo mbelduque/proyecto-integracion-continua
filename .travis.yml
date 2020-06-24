@@ -1,0 +1,27 @@
+sudo: required
+language: node_js
+node_js:
+  - "9"
+services:
+  - docker
+
+before_install:
+  # login to docker registries (dockerhub)
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+
+install:
+  # install deps
+  - yarn install
+
+script:
+  - yarn build
+  # build docker images
+  - docker build -t belduque/template-shop .
+
+deploy:
+  provider: script
+  script:
+    # push to dockerhub
+    docker push belduque/template-shop;
+  on:
+    branch: master
