@@ -11,7 +11,6 @@ install:
   # install deps
   - yarn install
 script:
-  - yarn test
   - yarn build
   # build docker images
   - docker build -t template-shop:1.0 .
