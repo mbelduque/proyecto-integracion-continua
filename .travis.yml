@@ -1,7 +1,7 @@
 sudo: required
 language: node_js
 node_js:
-  - "9"
+  - "12.10.0-alpine"
 services:
   - docker
 before_install:
