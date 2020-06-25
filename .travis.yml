@@ -12,9 +12,6 @@ before_install:
 install:
   # install deps
   - yarn install
-  - yarn add firebase
-  - yarn add firebaseui
-  - yarn add react-firebaseui
 
 script:
   - yarn build
