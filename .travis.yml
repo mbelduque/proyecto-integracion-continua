@@ -22,6 +22,7 @@ deploy:
   provider: script
   script:
     # push to dockerhub
+    docker tag template-shop belduque/template-shop
     docker push belduque/template-shop;
   on:
     branch: master
