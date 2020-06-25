@@ -11,10 +11,10 @@ before_install:
 
 install:
   # install deps
-  - yarn install
+  - npm install
 
 script:
-  - yarn build
+  - npm build
   # build docker images
   - docker build -t template-shop .
 
