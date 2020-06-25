@@ -17,12 +17,9 @@ script:
   - yarn build
   # build docker images
   - docker build -t template-shop .
-
-deploy:
-  provider: script
-  script:
-    # push to dockerhub
-    docker tag template-shop belduque/template-shop
-    docker push belduque/template-shop;
-  on:
-    branch: master
+after_success:
+  - docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
+  - docker tag front $DOCKER_USER/front:$TRAVIS_BUILD_NUMBER
+  - docker push $DOCKER_USER/front:$TRAVIS_BUILD_NUMBER
+  - docker tag front $DOCKER_USER/front:latest
+  - docker push $DOCKER_USER/front:latest
