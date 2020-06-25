@@ -19,7 +19,7 @@ install:
 script:
   - yarn build
   # build docker images
-  - docker build -t belduque/template-shop .
+  - docker build -t template-shop .
 
 deploy:
   provider: script
