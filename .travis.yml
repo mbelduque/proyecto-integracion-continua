@@ -17,9 +17,9 @@ script:
   - yarn build
   # build docker images
   - docker build -t template-shop .
+
 after_success:
-  - docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
-  - docker tag front $DOCKER_USER/front:$TRAVIS_BUILD_NUMBER
-  - docker push $DOCKER_USER/front:$TRAVIS_BUILD_NUMBER
-  - docker tag front $DOCKER_USER/front:latest
-  - docker push $DOCKER_USER/front:latest
+  - docker tag template-shop $DOCKER_USER/template-shop:$TRAVIS_BUILD_NUMBER
+  - docker push $DOCKER_USER/template-shop:$TRAVIS_BUILD_NUMBER
+  - docker tag template-shop $DOCKER_USER/template-shop:latest
+  - docker push $DOCKER_USER/template-shop:latest
