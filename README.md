@@ -1,5 +1,6 @@
 <a href="https://github.com/mbelduque/proyecto-integracion-continua/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/mbelduque/healingtouch.svg"></a>
 [![BCH compliance](https://bettercodehub.com/edge/badge/mbelduque/proyecto-integracion-continua?branch=master)](https://bettercodehub.com/)
+<a href="https://travis-ci.com/mbelduque/proyecto-integracion-continua.svg?branch=master"></a>
 <a href="https://github.com/mbelduque/proyecto-integracion-continua/stargazers">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mbelduque/proyecto-integracion-continua.svg?style=social">
 </a>
