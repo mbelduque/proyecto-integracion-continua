@@ -38,7 +38,7 @@ class App extends Component {
       <div className="App" >
         <header className="App-header" >
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>OrgánicaA</h1>
+          <h1>Orgánica</h1>
           <p id="txt">¿necesita una cuenta? <hr /> Regístrese ahora mismo y haga sus compras</p>
           {
             this.state.isSignedIn ? (
